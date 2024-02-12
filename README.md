@@ -1,8 +1,8 @@
 # dog_api
 
-Rastgele api'dan köpek resmi getiren uygulama. 
+The app for randomize dog pictures getting from the API.
 
-## Gereken ekstra Flutter paketleri ve sürümleri: 
+##Required flutter packages and versions are below.
 
   http: ^0.12.2
   provider: ^4.3.3
